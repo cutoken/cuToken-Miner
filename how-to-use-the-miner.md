@@ -36,3 +36,6 @@ in the background.
 7) You can check your CuToken balance in any of the supported 
 block explorers (example blockchain.info) by entering the public key from your wallet.dat file.
 
+
+# **On Mac**
+Will be supported soon
