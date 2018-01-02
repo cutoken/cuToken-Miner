@@ -15,12 +15,12 @@ are important or you might lose your CuTokens.
 
 # **On Linux:**
 1) To install, run the following commands in sequence to install the miner software
-sudo curl -sSL getLinuxMiner.cutoken.io |sh
+>     sudo curl -sSL getLinuxMiner.cutoken.io |sh
 
 2) To launch and mine CuTokens, run the following commands in sequence
 
-cd cuTokenMiner
-sudo mono cuTokenMiner.exe
+>     cd cuTokenMiner
+>     sudo mono cuTokenMiner.exe
 
 3) After (2), If you are running CuToken miner for the first time, you will be prompted to create a new
 wallet account. Go ahead and create it. This is where your CuTokens will be shown. 
@@ -31,7 +31,7 @@ Steps (4) and (5) are important or you might lose your CuTokens.
 run the below command after quitting the CuToken miner running earlier. This will keep generating CuTokens
 in the background.
 
-nohup sudo mono cuTokenMiner.exe &
+>     nohup sudo mono cuTokenMiner.exe &
 
 7) You can check your CuToken balance in any of the supported 
 block explorers (example blockchain.info) by entering the public key from your wallet.dat file.
