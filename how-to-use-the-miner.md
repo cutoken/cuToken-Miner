@@ -1,4 +1,4 @@
-On Windows:
+# **On Windows:**
 1) Download and save the CuToken miner setup executable from the repo on to your local computer.
 2) Double click and install the miner setup.
 3) You might receive additional prompts for .NET runtime and VirtualBox if not already installed on your machine. 
@@ -13,7 +13,7 @@ wallet account. Go ahead and create it. This is where your CuTokens will be show
 are important or you might lose your CuTokens.
 9) Keep the CuToken miner running always to generate CuTokens in the background.
 
-#On Linux:
+# **On Linux:**
 1) To install, run the following commands in sequence to install the miner software
 sudo curl -sSL getLinuxMiner.cutoken.io |sh
 
